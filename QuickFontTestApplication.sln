@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickFont", "QuickFont\QuickFont.csproj", "{BBECE6FC-EF63-40F8-A734-A500D1DFC1AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickFontTest", "Test\QuickFontTest.csproj", "{45CBBA51-6A31-47AC-9B04-84E73DA268F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBECE6FC-EF63-40F8-A734-A500D1DFC1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBECE6FC-EF63-40F8-A734-A500D1DFC1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBECE6FC-EF63-40F8-A734-A500D1DFC1AF}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{BBECE6FC-EF63-40F8-A734-A500D1DFC1AF}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{BBECE6FC-EF63-40F8-A734-A500D1DFC1AF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BBECE6FC-EF63-40F8-A734-A500D1DFC1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBECE6FC-EF63-40F8-A734-A500D1DFC1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBECE6FC-EF63-40F8-A734-A500D1DFC1AF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{BBECE6FC-EF63-40F8-A734-A500D1DFC1AF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{BBECE6FC-EF63-40F8-A734-A500D1DFC1AF}.Release|x86.ActiveCfg = Release|Any CPU
+		{45CBBA51-6A31-47AC-9B04-84E73DA268F2}.Debug|Any CPU.ActiveCfg = Debug|Mixed Platforms
+		{45CBBA51-6A31-47AC-9B04-84E73DA268F2}.Debug|Any CPU.Build.0 = Debug|Mixed Platforms
+		{45CBBA51-6A31-47AC-9B04-84E73DA268F2}.Debug|Mixed Platforms.ActiveCfg = Debug|Mixed Platforms
+		{45CBBA51-6A31-47AC-9B04-84E73DA268F2}.Debug|Mixed Platforms.Build.0 = Debug|Mixed Platforms
+		{45CBBA51-6A31-47AC-9B04-84E73DA268F2}.Debug|x86.ActiveCfg = Debug|Mixed Platforms
+		{45CBBA51-6A31-47AC-9B04-84E73DA268F2}.Debug|x86.Build.0 = Debug|Mixed Platforms
+		{45CBBA51-6A31-47AC-9B04-84E73DA268F2}.Release|Any CPU.ActiveCfg = Release|Mixed Platforms
+		{45CBBA51-6A31-47AC-9B04-84E73DA268F2}.Release|Any CPU.Build.0 = Release|Mixed Platforms
+		{45CBBA51-6A31-47AC-9B04-84E73DA268F2}.Release|Mixed Platforms.ActiveCfg = Release|Mixed Platforms
+		{45CBBA51-6A31-47AC-9B04-84E73DA268F2}.Release|Mixed Platforms.Build.0 = Release|Mixed Platforms
+		{45CBBA51-6A31-47AC-9B04-84E73DA268F2}.Release|x86.ActiveCfg = Release|Mixed Platforms
+		{45CBBA51-6A31-47AC-9B04-84E73DA268F2}.Release|x86.Build.0 = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FC6BE54-78B2-424F-BBB8-906531829FEB}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Test\Test.csproj
+	EndGlobalSection
+EndGlobal
